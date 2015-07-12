@@ -5,6 +5,7 @@ Useful resources for those new to tech and coding in the Dayton area.
   * [Local Tech and Coding Groups](#chapter-1)
   * [Learning to Code](#chapter-2)
   * [Podcasts to Listen To](#chapter-3)
+  * [Tools](#chapter-4)
 
 ### Local Tech and Coding Groups <a id="chapter-1"></a>
 - [Girl Develop It Dayton](www.gdidayton.com)
@@ -18,17 +19,19 @@ Useful resources for those new to tech and coding in the Dayton area.
 - [Dayton Ruby Brigade](http://www.meetup.com/daytonrb/)
 - [Dayton Linux](http://www.dma1.org/linux/)
 - [Technology First](http://technologyfirst.org/)
--[Build Right Maker Series](http://buildright.io/maker-series/)
+- [Build Right Maker Series](http://buildright.io/maker-series/)
 
 ### Learning to Code <a id="chapter-2"></a>
 - [Codecademy HTML & CSS](http://www.codecademy.com/tracks/web)
 - [Treehouse Front End Web Development](http://teamtreehouse.com/tracks/front-end-web-development)
+- [CSS-Tricks Lodge](https://css-tricks.com/lodge/)
 - [Dash HTML & CSS & JavaScript](https://dash.generalassemb.ly/)
 - [Code School HTML CSS Path](https://www.codeschool.com/paths/html-css)
 - [Lynda Web Development](http://www.lynda.com/Web-Development-training-tutorials/1471-0.html?category=beginner_337%2chtml_224&previousCategory=50)
 - [Free Code Camp](http://www.freecodecamp.com/)
 - [Skillcrush](http://skillcrush.com/)
 - [Thinkful](https://www.thinkful.com/)
+- [Git simple guide](http://rogerdudler.github.io/git-guide/)
 
 ### Podcasts to Listen To <a id="chapter-3"></a>
 - [Code Newbie](http://www.codenewbie.org/podcast)
@@ -39,3 +42,11 @@ Useful resources for those new to tech and coding in the Dayton area.
 - [Style Guide Podcast](http://styleguides.io/podcast/)
 - [Tech Talker's Quick and Dirty Tips](http://www.quickanddirtytips.com/tech-talker)
 - [Your Website Engineer (WordPress)](http://yourwebsiteengineer.com/category/podcast/)
+
+### Tools <a id="chapter 4"></a>
+- [Trello, productivity](https://trello.com/)
+- [GitHub, code version control](https://github.com/)
+- [CodePen, easy in-browser code editor](http://codepen.io/)
+- [Sublime Text, code editor](http://www.sublimetext.com/)
+- [Chrome DevTools](http://www.sublimetext.com/)
+- [Slack, team messaging](https://slack.com/)
