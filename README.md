@@ -32,6 +32,7 @@ Useful resources for those new to tech and coding in the Dayton area.
 - [Skillcrush](http://skillcrush.com/)
 - [Thinkful](https://www.thinkful.com/)
 - [Git simple guide](http://rogerdudler.github.io/git-guide/)
+- [Frontend Masters](http://www.frontendmasters.com)
 
 ### Podcasts to Listen To <a id="chapter-3"></a>
 - [Code Newbie](http://www.codenewbie.org/podcast)
