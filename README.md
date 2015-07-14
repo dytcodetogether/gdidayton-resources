@@ -22,6 +22,7 @@ Useful resources for those new to tech and coding in the Dayton area.
 - [Build Right Maker Series](http://buildright.io/maker-series/)
 
 ### Learning to Code <a id="chapter-2"></a>
+- [HTML Dog](http://www.htmldog.com/guides)
 - [Codecademy HTML & CSS](http://www.codecademy.com/tracks/web)
 - [Treehouse Front End Web Development](http://teamtreehouse.com/tracks/front-end-web-development)
 - [CSS-Tricks Lodge](https://css-tricks.com/lodge/)
