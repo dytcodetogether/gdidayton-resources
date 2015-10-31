@@ -20,6 +20,7 @@ Useful resources for those new to tech and coding in the Dayton area.
 - [Dayton Linux](http://www.dma1.org/linux/)
 - [Technology First](http://technologyfirst.org/)
 - [Build Right Maker Series](http://buildright.io/maker-series/)
+- [CodePen Dayton](http://www.meetup.com/CodePen-Dayton/)
 
 ### Learning to Code <a id="chapter-2"></a>
 - [HTML Dog](http://www.htmldog.com/guides)
