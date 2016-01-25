@@ -21,6 +21,7 @@ Useful resources for those new to tech and coding in the Dayton area.
 - [Technology First](http://technologyfirst.org/)
 - [Build Right Maker Series](http://buildright.io/maker-series/)
 - [CodePen Dayton](http://www.meetup.com/CodePen-Dayton/)
+- [Dayton Clean Coders] (http://www.meetup.com/daytoncleancoders/)
 
 ### Learning to Code <a id="chapter-2"></a>
 - [HTML Dog](http://www.htmldog.com/guides)
