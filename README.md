@@ -37,6 +37,7 @@ Useful resources for those new to tech and coding in the Dayton area.
 - [Git simple guide](http://rogerdudler.github.io/git-guide/)
 - [Frontend Masters](http://www.frontendmasters.com)
 - [Javascript.com] (https://www.javascript.com/)
+- [React] (https://www.thinkful.com/projects/paths/react/)
 
 ### Podcasts to Listen To <a id="chapter-3"></a>
 - [Code Newbie](http://www.codenewbie.org/podcast)
