@@ -54,5 +54,6 @@ Useful resources for those new to tech and coding in the Dayton area.
 - [GitHub, code version control](https://github.com/)
 - [CodePen, easy in-browser code editor](http://codepen.io/)
 - [Sublime Text, code editor](http://www.sublimetext.com/)
+- [Atom, code editor](https://atom.io/)
 - [Chrome DevTools](http://www.sublimetext.com/)
 - [Slack, team messaging](https://slack.com/)
