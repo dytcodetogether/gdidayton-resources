@@ -25,6 +25,7 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Dayton Clean Coders] (http://www.meetup.com/daytoncleancoders/)
 
 ### Learning to Code <a id="chapter-2"></a>
+- [Web Field Manual](http://webfieldmanual.com/code.html)
 - [HTML Dog](http://www.htmldog.com/guides)
 - [Codecademy HTML & CSS](http://www.codecademy.com/tracks/web)
 - [Treehouse Front End Web Development](http://teamtreehouse.com/tracks/front-end-web-development)
