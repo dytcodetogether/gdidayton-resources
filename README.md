@@ -22,7 +22,7 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Technology First](http://technologyfirst.org/)
 - [Build Right Maker Series](http://buildright.io/maker-series/)
 - [CodePen Dayton](http://www.meetup.com/CodePen-Dayton/)
-- [Dayton Clean Coders] (http://www.meetup.com/daytoncleancoders/)
+- [Dayton Clean Coders](http://www.meetup.com/daytoncleancoders/)
 
 ### Learning to Code <a id="chapter-2"></a>
 - [Web Field Manual](http://webfieldmanual.com/code.html)
@@ -38,8 +38,8 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Thinkful](https://www.thinkful.com/)
 - [Git simple guide](http://rogerdudler.github.io/git-guide/)
 - [Frontend Masters](http://www.frontendmasters.com)
-- [Javascript.com] (https://www.javascript.com/)
-- [React] (https://www.thinkful.com/projects/paths/react/)
+- [Javascript.com](https://www.javascript.com/)
+- [React](https://www.thinkful.com/projects/paths/react/)
 
 ### Podcasts to Listen To <a id="chapter-3"></a>
 - [Code Newbie](http://www.codenewbie.org/podcast)
