@@ -14,7 +14,6 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Dayton WordPress](http://www.meetup.com/Dayton-WordPress/)
 - [Code for Dayton](http://www.meetup.com/Code-for-Dayton/)
 - [UX Dayton](http://www.meetup.com/UXDayton/)
-- [Dayton Dynamic Languages](http://www.meetup.com/Dayton-Dynamic-Languages-User-Group/)
 - [Dayton Drupal](http://www.meetup.com/drupal-dayton/)
 - [Gem City JS](http://gemcityjs.com/)
 - [Dayton Ruby Brigade](http://www.meetup.com/daytonrb/)
