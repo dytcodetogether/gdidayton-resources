@@ -20,7 +20,6 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Dayton Linux](http://www.dma1.org/linux/)
 - [Technology First](http://technologyfirst.org/)
 - [Build Right Maker Series](http://buildright.io/maker-series/)
-- [CodePen Dayton](http://www.meetup.com/CodePen-Dayton/)
 - [Dayton Clean Coders](http://www.meetup.com/daytoncleancoders/)
 
 ### Learning to Code <a id="chapter-2"></a>
