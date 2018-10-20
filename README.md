@@ -22,6 +22,7 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Build Right Maker Series](http://buildright.io/maker-series/)
 - [Dayton Clean Coders](http://www.meetup.com/daytoncleancoders/)
 - [Dayton Women in Tech](https://www.meetup.com/Dayton-Women-in-Tech/)
+- [Dayton .Net developers](https://www.meetup.com/daytondevgroup/)
 
 ### Learning to Code <a id="chapter-2"></a>
 - [Web Field Manual](http://webfieldmanual.com/code.html)
