@@ -42,7 +42,7 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 
 ### Podcasts to Listen To <a id="chapter-3"></a>
 - [Code Newbie](http://www.codenewbie.org/podcast)
-- [ShopTalk Show](http://shoptalkshow.com/)
+- [ShopTalk Show]101.1(http://shoptalkshow.com/)
 - [Developer Tea](https://developertea.com/)
 - [The Web Ahead](http://5by5.tv/webahead)
 - [CTRL Click Cast](http://ctrlclickcast.com/)
