@@ -57,5 +57,6 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [CodePen, easy in-browser code editor](http://codepen.io/)
 - [Sublime Text, code editor](http://www.sublimetext.com/)
 - [Atom, code editor](https://atom.io/)
+- [Visual Studio Code, code editor](https://code.visualstudio.com/)
 - [Chrome DevTools](http://www.sublimetext.com/)
 - [Slack, team messaging](https://slack.com/)
