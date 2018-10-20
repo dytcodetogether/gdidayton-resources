@@ -49,6 +49,7 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Style Guide Podcast](http://styleguides.io/podcast/)
 - [Tech Talker's Quick and Dirty Tips](http://www.quickanddirtytips.com/tech-talker)
 - [Your Website Engineer (WordPress)](http://yourwebsiteengineer.com/category/podcast/)
+- [https://syntax.fm/]
 
 ### Tools <a id="chapter 4"></a>
 - [Trello, productivity](https://trello.com/)
