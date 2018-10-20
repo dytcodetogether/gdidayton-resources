@@ -58,3 +58,8 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Atom, code editor](https://atom.io/)
 - [Chrome DevTools](http://www.sublimetext.com/)
 - [Slack, team messaging](https://slack.com/)
+
+### open source
+- [Open source guides](https://opensource.guide/)
+- [Open source license](https://choosealicense.com/)
+- [Git](https://git-scm.com/)
