@@ -61,3 +61,9 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Chrome DevTools](http://www.sublimetext.com/)
 - [Slack, team messaging](https://slack.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+
+### open source
+- [Open source guides](https://opensource.guide/)
+- [Open source license](https://choosealicense.com/)
+- [Git](https://git-scm.com/)
+
