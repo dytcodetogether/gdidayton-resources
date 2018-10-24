@@ -22,6 +22,7 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Build Right Maker Series](http://buildright.io/maker-series/)
 - [Dayton Clean Coders](http://www.meetup.com/daytoncleancoders/)
 - [Dayton Women in Tech](https://www.meetup.com/Dayton-Women-in-Tech/)
+- [Dayton .Net developers](https://www.meetup.com/daytondevgroup/)
 
 ### Learning to Code <a id="chapter-2"></a>
 - [Web Field Manual](http://webfieldmanual.com/code.html)
@@ -49,6 +50,7 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Style Guide Podcast](http://styleguides.io/podcast/)
 - [Tech Talker's Quick and Dirty Tips](http://www.quickanddirtytips.com/tech-talker)
 - [Your Website Engineer (WordPress)](http://yourwebsiteengineer.com/category/podcast/)
+- [Syntax](https://syntax.fm)
 
 ### Tools <a id="chapter 4"></a>
 - [Trello, productivity](https://trello.com/)
@@ -58,8 +60,10 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [Atom, code editor](https://atom.io/)
 - [Chrome DevTools](http://www.sublimetext.com/)
 - [Slack, team messaging](https://slack.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ### open source
 - [Open source guides](https://opensource.guide/)
 - [Open source license](https://choosealicense.com/)
 - [Git](https://git-scm.com/)
+
