@@ -9,7 +9,7 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
   * [Tools](#chapter-4)
 
 ### Local Tech and Coding Groups <a id="chapter-1"></a>
-- [Girl Develop It Dayton](www.gdidayton.com)
+- [Dayton Women Code Together](https://www.meetup.com/Dayton-Women-Code-Together/)
 - [Dayton Web Developers](http://www.meetup.com/dayton-web-developers/)
 - [Dayton WordPress](http://www.meetup.com/Dayton-WordPress/)
 - [Code for Dayton](http://www.meetup.com/Code-for-Dayton/)
