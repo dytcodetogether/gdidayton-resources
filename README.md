@@ -29,7 +29,7 @@ Be sure to check out [Lamppost.io](https://lamppost.io/) for a list of upcoming 
 - [HTML Dog](http://www.htmldog.com/guides)
 - [Codecademy HTML & CSS](http://www.codecademy.com/tracks/web)
 - [Treehouse Front End Web Development](http://teamtreehouse.com/tracks/front-end-web-development)
-- [CSS-Tricks Lodge](https://css-tricks.com/lodge/)
+- [CSS-Tricks Screencasts](https://css-tricks.com/screencasts/)
 - [Dash HTML & CSS & JavaScript](https://dash.generalassemb.ly/)
 - [Code School HTML CSS Path](https://www.codeschool.com/paths/html-css)
 - [Lynda Web Development](http://www.lynda.com/Web-Development-training-tutorials/1471-0.html?category=beginner_337%2chtml_224&previousCategory=50)
