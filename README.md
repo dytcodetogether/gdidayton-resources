@@ -38,6 +38,8 @@ Useful resources for those new to tech and coding in the Dayton area.
 - [Skillcrush](http://skillcrush.com/)
 - [Thinkful](https://www.thinkful.com/)
 - [Git simple guide](http://rogerdudler.github.io/git-guide/)
+ -[Learn CSS Grid](http://www.cssgrid.io/)
+- [Frontend Masters](http://www.frontendmasters.com)
 - [Javascript.com](https://www.javascript.com/)
 - [React](https://www.thinkful.com/projects/paths/react/)
 
